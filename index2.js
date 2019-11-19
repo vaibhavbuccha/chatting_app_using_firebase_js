@@ -19,14 +19,14 @@
  <script>
     // Your web app's Firebase configuration
   var firebaseConfig = {
-    apiKey: "AIzaSyC_AhAW9zy8QjBSoS6bPoH0as914AEB91Q",
-    authDomain: "abegya-db.firebaseapp.com",
-    databaseURL: "https://abegya-db.firebaseio.com",
-    projectId: "abegya-db",
-    storageBucket: "abegya-db.appspot.com",
-    messagingSenderId: "791175448065",
-    appId: "1:791175448065:web:792080e5378bbb94ea6200",
-    measurementId: "G-DSM9TG1SSY"
+    apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    authDomain: "xxxxxxxxxxxxx",
+    databaseURL: "xxxxxxxxxxx",
+    projectId: "xxxxxxxxxxxxx",
+    storageBucket: "xxxxxxxxxxxxxxxxx",
+    messagingSenderId: "xxxxxxxxxxxxxxx",
+    appId: "1xxxxxxxxxx",
+    measurementId: "xxxxxxxxxxxxx"
   };  
 
   // Initialize Firebase
